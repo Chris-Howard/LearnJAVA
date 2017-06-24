@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="31/src"/>
+	<classpathentry kind="src" path="32/src"/>
+	<classpathentry kind="src" path="35/src"/>
+	<classpathentry kind="src" path="ArrayMinValue/src"/>
+	<classpathentry kind="src" path="DB/src"/>
+	<classpathentry kind="src" path="EgOfJava/src"/>
+	<classpathentry kind="src" path="FileTest/src"/>
+	<classpathentry kind="src" path="FourierTheory/src"/>
+	<classpathentry kind="src" path="NotePad/src"/>
+	<classpathentry kind="src" path="studentManager/src"/>
+	<classpathentry kind="src" path="tankGame/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="src" path="TestFormattCode/src"/>
+	<classpathentry kind="src" path="Thread/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="31/bin"/>
+</classpath>
